@@ -5,7 +5,7 @@
 // Copyright © AForge.NET, 2006-2011
 // contacts@aforgenet.com
 //
-// pararell changes
+// master changes
 
 using System;
 
